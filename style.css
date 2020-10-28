@@ -1,0 +1,40 @@
+h1 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+select {
+    width: 50%;
+}
+
+label {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+    border-top: 1px solid #7c7c7c;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table,
+th {
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #ffffcf;
+}
+
+th {
+    width: 300px;
+}
